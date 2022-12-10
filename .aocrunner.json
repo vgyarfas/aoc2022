@@ -142,16 +142,16 @@
     },
     {
       "part1": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "12880",
         "attempts": [],
-        "time": null
+        "time": 0.148593
       },
       "part2": {
         "solved": false,
-        "result": null,
+        "result": "FCJAPJRE",
         "attempts": [],
-        "time": null
+        "time": 0.153785
       }
     },
     {
