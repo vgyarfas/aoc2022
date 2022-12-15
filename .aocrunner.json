@@ -148,7 +148,7 @@
         "time": 0.087624
       },
       "part2": {
-        "solved": false,
+        "solved": true,
         "result": "FCJAPJRE",
         "attempts": [],
         "time": 0.147463
@@ -229,7 +229,7 @@
         "attempts": [
           "5807608"
         ],
-        "time": 1237.223584
+        "time": 1318.023791
       },
       "part2": {
         "solved": true,
@@ -237,7 +237,7 @@
         "attempts": [
           "6741932059101"
         ],
-        "time": 129973.946333
+        "time": 139304.228875
       }
     },
     {
