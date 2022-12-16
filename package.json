@@ -18,7 +18,10 @@
     "aocrunner": "^1.6.1",
     "prettier": "^2.4.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@types/graphlib": "^2.1.8",
+    "graphlib": "^2.1.8"
+  },
   "engines": {
     "node": ">=16.13.0"
   }
